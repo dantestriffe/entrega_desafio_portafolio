@@ -1,0 +1,102 @@
+*{
+  margin: 0px;
+  padding: 0px;
+}
+
+body{
+  text-align: center;
+  font-family: "Oswald";
+}
+
+.hero_img{
+  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),
+  url("../img/bg_hero.jpg");
+  padding-top: 25rem;
+  padding-bottom: 4rem;
+  min-height: 500px;
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.nav-link{
+  margin: 0px;
+padding: 0px;
+}
+
+a{
+  color: white;
+}
+
+.imgmodal{
+  width: 100%;
+}
+
+.card-img-top{
+  height: 236px;
+}
+
+.hero_txt h1{
+  font-weight: 200;
+  font-size: 80px;
+}
+
+#danny{
+  font-weight: 700;
+}
+
+.card{
+  border: solid 0px;
+}
+
+.iconos{
+  width: 100px;
+}
+
+
+.hero_txt{
+  color: white;
+  font-weight: 200;
+}
+
+.trabajos{
+  background-color: black;
+  padding-bottom: 120px;
+  padding-top: 120px;
+}
+
+.trabajos h1{
+  color: white;
+}
+
+.textoDescripcion{
+  margin-top: 80px;
+}
+
+.txt_sobre{
+  text-align: left;
+}
+
+hr{
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+  width: 20%;
+  background-color: white;
+}
+
+i {
+  font-size: 60px;
+  color: white;
+}
+
+.hr_hero{
+ background-color: white;
+ display: block;
+ width: 20%;
+ margin-bottom: 0.5em;
+ margin-left: auto;
+ margin-right: auto;
+ border-width: 2px;
+}
